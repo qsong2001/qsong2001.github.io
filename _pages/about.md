@@ -21,15 +21,27 @@ You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).
 
 Publications
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+
+
+- Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model \
+_**Qi Song**, Ziyuan Luo, Ka Chun Cheung, Simon See and Renjie Wan_ \
+in ECCV 2024
+
+
+- Degradation Conditioned GAN for Degradation Generalization of Face Restoration Models \
+_**Qi Song**, Wu Shi, Guojing Ge and Liang Chang_ \
+in ICIP 2023 Oral [Paper](https://ieeexplore.ieee.org/abstract/document/10222379)
+
+
+- Taisu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training \
+_Yulong Liu, Guibo Zhu, Bin Zhu, **Qi Song**, Guojing Ge, Haoran Chen, GuanHui Qiao, Ru Peng, Lingxiang Wu and Jinqiao Wang_ \
+in NeurIPS 2022 Spotlight [Paper](https://openreview.net/forum?id=iAxH-ikIP0I)
+
+
+- Benchmarking Wild Bird Detection in Complex Forest Scenes \
+_**Qi Song**, Yu Guan, Xi Guo, Xinhui Guo, Yufeng Chen, Hongfang Wang, Jianping Ge, Tianming Wang and Lei Bao_ \
+Ecological Informatics [Paper](https://doi.org/10.1016/j.ecoinf.2024.102466) / CVPRW'24 [CV4Animal](https://www.cv4animals.com/#h.n0dhltux5pqe)
+
+
 
 
