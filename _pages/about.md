@@ -35,7 +35,7 @@ in ICIP 2023 Oral [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/1022
 
 - Taisu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training \
 _Yulong Liu, Guibo Zhu, Bin Zhu, **Qi Song**, Guojing Ge, Haoran Chen, GuanHui Qiao, Ru Peng, Lingxiang Wu and Jinqiao Wang_ \
-in NeurIPS 2022 Spotlight [\[Paper\]]([https://openreview.net/forum?id=iAxH-ikIP0I](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6a386d703b50f1cf1f61ab02a15967bb-Abstract-Datasets_and_Benchmarks.html))
+in NeurIPS 2022 Spotlight [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6a386d703b50f1cf1f61ab02a15967bb-Abstract-Datasets_and_Benchmarks.html)
 
 
 - Benchmarking Wild Bird Detection in Complex Forest Scenes \
