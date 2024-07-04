@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a PhD student at [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) of [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) since 2023. My current work focuses on AI security for 3D vision.
+
+I am very fortunate to be advised by [Dr. WAN, Renjie]([https://www.XXX.com/](https://wanrenjie.github.io/)) at HKBU. I obtained my bachelor's degree in Computer  Science from Beijing Normal University in 2023. Since September 2023, I have also been a research intern at NVIDIA AI Technology Center.
+
+You can find my CV here: [CV](../assets/CV.pdf).
+
+[Email](mailto:qisong@life.hkbu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en) /
+————————————————
+
+
 
 A data-driven personal website
 ======
