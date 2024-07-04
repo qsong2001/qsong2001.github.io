@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I'm a PhD student at [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) of [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) since 2023. My current work focuses on AI security for 3D vision.
 
