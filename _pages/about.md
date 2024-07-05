@@ -30,7 +30,7 @@ in ECCV 2024 [\[Paper\]](https://qsong2001.github.io/)
 
 - Benchmarking Wild Bird Detection in Complex Forest Scenes \
 _**Qi Song**, Yu Guan, Xi Guo, Xinhui Guo, Yufeng Chen, Hongfang Wang, Jianping Ge, Tianming Wang and Lei Bao_ \
-Ecological Informatics [\[Paper\]](https://doi.org/10.1016/j.ecoinf.2024.102466) / CVPRW 2024 [\[CV4Animal\]](https://www.cv4animals.com/#h.n0dhltux5pqe)
+Ecological Informatics / CVPRW 2024 [\[CV4Animal\]](https://www.cv4animals.com/#h.n0dhltux5pqe) [\[Paper\]](https://doi.org/10.1016/j.ecoinf.2024.102466)
 
 
 - Degradation Conditioned GAN for Degradation Generalization of Face Restoration Models \
