@@ -14,7 +14,7 @@ My current work focuses on AI security for neural representation.
  
 You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:qisong@life.hkbu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en)
+[Email](mailto:qisong@life.hkbu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en) [Linkedin](www.linkedin.com/in/qsong2001)
 
 
 
