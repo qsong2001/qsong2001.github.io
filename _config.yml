@@ -25,13 +25,13 @@ author:
   name             : "SONG Qi"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
+  location         : # "Earth"
   employer         : # "Hong Kong Baptist University"
   uri              : # URL
-  email            : "qisong@life.hkbu.edu.hk" 
+  email            : # "qisong@life.hkbu.edu.hk" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en"
 
 
   # Repositories and software development
