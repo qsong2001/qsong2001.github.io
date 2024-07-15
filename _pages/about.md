@@ -24,7 +24,7 @@ Publications
 
 - Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model \
 _**Qi Song**, Ziyuan Luo, Ka Chun Cheung, Simon See and Renjie Wan_ \
-in ECCV 2024 [\[Paper\]](https://qsong2001.github.io/)
+in ECCV 2024 [\[Project Page\]](https://qsong2001.github.io/NeRFProtector)
 
 
 - Benchmarking Wild Bird Detection in Complex Forest Scenes \
