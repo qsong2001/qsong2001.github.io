@@ -29,7 +29,7 @@ in ECCV 2024 [\[Project Page\]](https://qsong2001.github.io/NeRFProtector)
 
 - Benchmarking Wild Bird Detection in Complex Forest Scenes \
 _**Qi Song**, Yu Guan, Xi Guo, Xinhui Guo, Yufeng Chen, Hongfang Wang, Jianping Ge, Tianming Wang and Lei Bao_ \
-Ecological Informatics / CVPRW 2024 [\[CV4Animal\]](https://www.cv4animals.com/#h.n0dhltux5pqe) [\[Paper\]](https://doi.org/10.1016/j.ecoinf.2024.102466)
+in CVPRW 2024 / Ecol. Inform. [\[CV4Animal\]](https://www.cv4animals.com/#h.n0dhltux5pqe) [\[Paper\]](https://doi.org/10.1016/j.ecoinf.2024.102466)
 
 
 - Degradation Conditioned GAN for Degradation Generalization of Face Restoration Models \
