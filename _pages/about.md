@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 
-I'm a PhD student at [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) of [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) since 2023. I am fortunate to be advised by [Dr. WAN, Renjie](https://wanrenjie.github.io/) at HKBU. I obtained my bachelor's degree in Computer Science from [Beijing Normal University](https://ai.bnu.edu.cn/) in 2023. Since Sep. 2023, I have also been a research intern at NVIDIA AI Technology Center. 
+I'm a PhD student at [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) of [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) since 2023. I am fortunate to be advised by [Dr. WAN, Renjie](https://wanrenjie.github.io/) at HKBU. I obtained my bachelor's degree in Computer Science from [Beijing Normal University](https://english.bnu.edu.cn/) in 2023. Since Sep. 2023, I have also been a research intern at NVIDIA AI Technology Center. 
 
-My current work focuses on AI security for neural representation.
+Currently, I am focusing on AI security/privacy for implicit neural representation/3D vision.
+
  
-You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:qisong@life.hkbu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/qsong2001/)
+[Email](mailto:qisong@life.hkbu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=VGUVxSsAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/qsong2001/) / [CV](../assets/Curriculum_Vitae.pdf)
 
 
 
