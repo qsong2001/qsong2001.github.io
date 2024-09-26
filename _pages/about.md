@@ -21,6 +21,10 @@ Please feel free to email me if you have any questions.
 Publications
 ---
 
+- Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images \
+_**Qi Song**, Ziyuan Luo, Ka Chun Cheung, Simon See and Renjie Wan_ \
+in NeurIPS 2024 [\[Paper\]](https://qsong2001.github.io/)
+
 
 - Protecting NeRFs' Copyright via Plug-and-Play Watermarking Base Model \
 _**Qi Song**, Ziyuan Luo, Ka Chun Cheung, Simon See and Renjie Wan_ \
